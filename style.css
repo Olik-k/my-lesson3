@@ -1,0 +1,149 @@
+.font1 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.font2 {
+  font-family: "Raleway", sans-serif;
+}
+
+.text2 {
+  color: #fff;
+}
+
+body {
+  color:black;
+  font-size: 14px;
+  min-width: 280px;
+  background-color: #fff;
+  overflow-x: hidden;
+}
+
+.blok1 {
+  text-align: center;
+  min-height: 595px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff;
+}
+
+.heading1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 36px;
+  line-height: 42px;
+  font-weight: 400;
+  padding-top: 50px;
+}
+
+.paragraph1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+  color: dimgrey;
+  padding-top: 45px;
+}
+
+li {
+  display: inline-block;
+  text-align: center;
+  width: 25%;
+  margin: 50px 50px 50px 50px;
+  padding: 0;
+  }
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 700;
+  }
+
+.paragraph3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+  }
+
+.border {
+  width: 35px;
+  height: 35px;
+  padding: 20px;
+  border: 1px solid #f50505;
+  border-radius: 50%;
+}
+
+.hr {
+  margin: 0;
+  padding: 0;
+}
+  
+
+.blok2 {
+  text-align: center;
+  min-height: 326px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;  
+  background-image: linear-gradient();
+  border: none;
+}
+
+.heading2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 36px;
+  line-height: 42px;
+  font-weight: 400;
+  color: #fff;
+  padding-top: 50px;
+}
+
+.paragraph2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 300;
+  color: #fff;
+  padding-bottom: 50px;
+}
+
+button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 600;
+  color: #fff;
+  border: 1px #fff solid;
+  background-color: Transparent;
+  box-sizing: border-box;
+  width: 135px;
+  height: 42px;
+  left: 632px;
+  cursor: pointer;
+}
+  
+footer {
+  text-align: center;
+  min-height: 101px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  border: none;
+}
+
+.social {
+  padding-top: 20px;
+  width: 317px;
+  height: 23px;
+  left: 541px;
+}
+.paragraphfooter {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  color: gray;
+  padding-top: 15px;
+}
