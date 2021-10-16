@@ -27,7 +27,7 @@ body {
   background-color: #fff;
 }
 
-.heading1 {
+.heading {
   font-family: "Raleway", sans-serif;
   font-size: 36px;
   line-height: 42px;
@@ -88,6 +88,8 @@ h3 {
   background-position: center;  
   background-image: linear-gradient();
   border: none;
+  background-color: rgba(0, 0, 0, 0.5); /* затемнение */
+  background-blend-mode: overlay; /* затемнение */
 }
 
 .heading2 {
@@ -129,7 +131,7 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: black;
+  background-color: #000000;
   border: none;
 }
 
@@ -144,6 +146,6 @@ footer {
   font-size: 12px;
   line-height: 16px;
   font-weight: 400;
-  color: gray;
+  color: #808080;
   padding-top: 15px;
 }
